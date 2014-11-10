@@ -2,7 +2,7 @@ PROJECT = simulator_linux
 SOURCES = $(wildcard src/*.cpp)
 OBJECTS = $(SOURCES:.cpp=.o)
 CFLAGS  = -c -O2 -Wall -pedantic
-LIBRARIES = `pkg-config --libs libglfw`
+LIBRARIES = `pkg-config --libs libglfw` -lGL
 
 all: $(PROJECT)
 
