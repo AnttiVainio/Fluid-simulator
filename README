@@ -1,5 +1,5 @@
 Screenshots of the program and Windows and Linux binaries compiled by Antti Vainio are available on his site at:
-http://www.anttivainio.net/fluid_simulator
+https://www.anttivainio.net/fluid_simulator
 
 
 This program is quite a simple two-dimensional fluid simulator. The simulation is not supposed to be accurate but an approximation that runs in real-time. The fluid consists of many individual particles and is rendered simulating metaballs to make it look like liquid.
@@ -20,7 +20,7 @@ Running the program:
 Once compiled, you must have your graphic card drivers installed and support for OpenGL 1.1.
 
 
-This program was originally released on April 11th, 2013 at http://www.anttivainio.net
+This program was originally released on April 11th, 2013 at https://www.anttivainio.net
 
 You may use all the source codes for anything you want.
 
